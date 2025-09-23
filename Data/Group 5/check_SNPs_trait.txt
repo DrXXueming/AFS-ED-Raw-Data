@@ -1,0 +1,213 @@
+Acceptance of an invitation to participate in a mental health questionnaire
+Adult body size
+Adventurousness
+Age at first birth
+Age at first sexual intercourse
+Age of smoking initiation
+Age of smoking initiation (MTAG)
+Age when finished full-time education (standard GWA)
+Aging (eyeAgeAcceleration)
+Alcohol consumption
+Alcohol consumption (drinks per week)
+Alcohol consumption (drinks per week) (MTAG)
+Alcohol use disorder (MTAG)
+Alzheimer's disease or educational attainment (pleiotropy)
+Anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+Anxiety disorder
+Anxiety/tension (special factor of neuroticism)
+Appendicular lean mass
+Attention deficit hyperactivity disorder (childhood)
+Attention deficit hyperactivity disorder or autism spectrum disorder (pleiotropy)
+Attention deficit hyperactivity disorder or autism spectrum disorder or intelligence (pleiotropy)
+Attention deficit hyperactivity disorder or caudate nucleus volume (pleiotropy)
+Autism spectrum disorder or schizophrenia
+BMI (standard GWA)
+BMI (weighted GWA)
+Basal cell carcinoma
+Bipolar disorder
+Bipolar disorder (MTAG)
+Bipolar disorder or glomerular filtration rate estimated from cystatin (MTAG)
+Bitter alcoholic beverage consumption
+Body fat percentage
+Body mass index
+Body mass index (BMI, maximum, inv-normal transformed)
+Body mass index (BMI, mean, inv-normal transformed)
+Body mass index (BMI, minimum, inv-normal transformed)
+Body mass index (MTAG)
+Body size (confirmatory factor analysis Factor 21)
+Body size at age 10
+Body surface area
+CAMSIS occupational score
+CAMSIS occupational score (MTAG)
+COVID-19 (hospitalized covid vs population)
+COVID-19 hospitalization or rheumatoid arthritis (MTAG)
+Cannabis use disorder (MTAG)
+Childhood body mass index
+Childhood maltreatment
+Cholesterol esters in large HDL
+Chronic obstructive pulmonary disease
+Chronotype
+Cigarettes smoked per day
+Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+Cognitive performance (MTAG)
+Common executive function
+Concentration of large HDL particles
+Congestive heart failure; nonhypertensive (PheCode 428)
+Coronary artery disease
+Cortical surface area
+Cortical thickness
+Cutaneous melanoma or hair colour
+Depression
+Depressive symptoms
+Diastolic blood pressure
+Diastolic blood pressure (MTAG)
+Dorsolateral prefrontal area (unadjusted for global measures)
+Dorsomedial frontal area (unadjusted for global measures)
+Drinks per week
+Dyslexia
+Ectonucleoside triphosphate diphosphohydrolase 6 levels
+Education attainment or attention deficit hyperactivity disorder
+Educational attainment
+Educational attainment (MTAG)
+Educational attainment (confirmatory factor analysis Factor 10)
+Educational attainment (years of education)
+Externalizing behaviour (multivariate analysis)
+F-coffee/alcohol liking (derived food-liking factor)
+F-salty food liking (derived food-liking factor)
+Falling risk
+Fat-free mass
+Feeling hurt
+Feeling nervous
+Feeling tense
+Free cholesterol in large HDL
+Gastroesophageal reflux disease or schizophrenia (pleiotropy)
+General cognitive ability
+General risk tolerance (MTAG)
+Hair color
+Hand grip strength
+Headache or glucose levels
+Height
+Height (maximum, inv-normal transformed)
+High density lipoprotein cholesterol levels
+High light scatter reticulocyte count
+High light scatter reticulocyte percentage of red cells
+Highest math class taken
+Highest math class taken (MTAG)
+Hip circumference adjusted for BMI
+Household income (MTAG)
+ISEI occupational score (MTAG)
+Immature fraction of reticulocytes
+Insomnia
+Intelligence
+Intelligence (MTAG)
+Itch intensity from mosquito bite adjusted by bite size
+Language functional connectivity
+Leukocyte telomere length or COVID-19 hospitalization (MTAG)
+Leukocyte telomere length or severe COVID-19 infection (MTAG)
+Lifetime smoking
+Lifetime smoking (without educational attainment)
+Lifetime smoking index
+Liver enzyme levels (alkaline phosphatase)
+Low myopia vs hyperopia
+Low testosterone levels
+Lung adenocarcinoma
+Lung cancer
+Lung cancer in ever smokers
+Lung function (FVC)
+Major adverse cardiovascular events in response to aspirin and clopidogrel treatment
+Major depressive disorder
+Major depressive disorder (broad)
+Mean corpuscular volume
+Mental health study participation (provided email address)
+Metabolic syndrome
+Monocyte percentage of white cells
+Morbid obesity (PheCode 278.11)
+Morning person
+Multi-trait sex score
+Multi-trait sum score
+Multisite chronic pain
+Neuropsychiatric disorders
+Neuroticism
+Neutral antibody levels in response to SARS-CoV-2 vaccination
+Noncognitive aspects of educational attainment
+Number of sexual partners
+Number of sexual partners in opposite-sex sexual behavior
+Obesity (PheCode 278.1)
+Oily fish consumption
+Opioid use disorder
+Opioid use disorder (MTAG)
+Opioid use disorder (broad)
+Orbitofrontal area (unadjusted for global measures)
+Osteoarthritis
+Overweight, obesity and other hyperalimentation (PheCode 278)
+Pain (pleiotropy)
+Personality traits or cognitive traits (multivariate analysis)
+Phospholipids in large HDL
+Physical activity
+Plateletcrit
+Pneumonia
+Pork consumption
+Positive affect
+Post-traumatic stress disorder symptom severity (avoidance)
+Post-traumatic stress disorder symptom severity (hyperarousal)
+Post-traumatic stress disorder symptom severity (total)
+Prostate cancer
+Psoriasis
+Pulse pressure
+R-spondin-1 levels
+Red cell distribution width
+Regular attendance at a religious group
+Risk-taking behavior (multivariate analysis)
+SIOPS occupational score
+SIOPS occupational score (MTAG)
+Sarcoidosis
+Schizophrenia
+Schizophrenia (MTAG)
+Schizophrenia or ER positive breast cancer (pleiotropy)
+Schizophrenia or breast cancer (pleiotropy)
+Schizophrenia vs ADHD (ordinary least squares (OLS))
+Self-reported math ability
+Self-reported math ability (MTAG)
+Serum alkaline phosphatase levels
+Sex hormone-binding globulin levels
+Smoked fish liking
+Smoking cessation
+Smoking cessation (MTAG)
+Smoking initiation
+Smoking initiation (MTAG)
+Smoking initiation (ever regular vs never regular)
+Smoking initiation (ever regular vs never regular) (MTAG)
+Smoking status
+Smoking status (ever vs never smokers)
+Smoking status (heavy vs never)
+Smoking status (standard GWA)
+Spherical equivalent
+Sporadic neuroblastoma
+Superior parietal area (unadjusted for global measures)
+Systolic blood pressure
+Systolic blood pressure (MTAG)
+Tea without sugar liking
+Telomere length (principal component 1)
+Total cholesterol in large HDL
+Total lipids in large HDL
+Trauma exposure
+Triglyceride levels
+Type 2 diabetes
+Vertex-wise cortical surface area
+Vertex-wise cortical thickness
+Vertex-wise sulcal depth
+Waist circumference adjusted for body mass index
+Weight
+Weight (maximum, inv-normal transformed)
+Weight (mean, inv-normal transformed)
+Weight (minimum, inv-normal transformed)
+Western dietary pattern
+What is your height? (cm, inv-normal transformed)
+What is your weight? (pounds, inv-normal transformed)
+White matter microstructure (mode of anisotropy)
+Whole body fat free mass (UKB data field 23101)
+Whole body fat mass (UKB data field 23100)
+Whole brain restricted directional diffusion (multivariate analysis)
+creatinine (maximum, inv-norm transformed)
+height (mean, inv-normal transformed)
+height (minimum, inv-normal transformed)

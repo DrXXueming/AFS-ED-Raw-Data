@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","exposure","outcome","snp_r2.exposure","snp_r2.outcome","correct_causal_direction","steiger_pval"
+"ebi-a-GCST90000046","ebi-a-GCST006956","Age at first sexual intercourse || id:ebi-a-GCST90000046","Erectile dysfunction || id:ebi-a-GCST006956",0.0150716811646605,0.000480858793886819,TRUE,3.17331852232688e-227

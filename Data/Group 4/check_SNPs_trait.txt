@@ -1,0 +1,101 @@
+Acceptance of an invitation to participate in a mental health questionnaire
+Age at first sexual intercourse
+Age of smoking initiation (MTAG)
+Age when finished full-time education (standard GWA)
+Aging (eyeAgeAcceleration)
+Alcohol consumption (drinks per week)
+Alcohol use disorder (MTAG)
+Anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+Anxiety disorder
+Appendicular lean mass
+Attention deficit hyperactivity disorder (childhood)
+Attention deficit hyperactivity disorder or autism spectrum disorder (pleiotropy)
+Attention deficit hyperactivity disorder or autism spectrum disorder or intelligence (pleiotropy)
+Attention deficit hyperactivity disorder or caudate nucleus volume (pleiotropy)
+Autism spectrum disorder or schizophrenia
+Basal cell carcinoma
+Bioavailable testosterone levels
+Bipolar disorder
+Bipolar disorder (MTAG)
+Body mass index
+CAMSIS occupational score
+CAMSIS occupational score (MTAG)
+COVID-19 hospitalization or rheumatoid arthritis (MTAG)
+Cannabis use disorder (MTAG)
+Childhood maltreatment
+Chronic obstructive pulmonary disease
+Chronotype
+Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+Cognitive performance (MTAG)
+Common executive function
+Cortical surface area
+Cortical thickness
+Depression
+Dorsolateral prefrontal area (unadjusted for global measures)
+Dorsomedial frontal area (unadjusted for global measures)
+Dyslexia
+Education attainment or attention deficit hyperactivity disorder
+Educational attainment
+Educational attainment (MTAG)
+Educational attainment (years of education)
+Externalizing behaviour (multivariate analysis)
+F-salty food liking (derived food-liking factor)
+Feeling hurt
+General cognitive ability
+General risk tolerance (MTAG)
+Height
+Highest math class taken (MTAG)
+ISEI occupational score (MTAG)
+Insomnia
+Intelligence
+Intelligence (MTAG)
+Language functional connectivity
+Lifetime smoking
+Lifetime smoking index
+Low myopia vs hyperopia
+Major depressive disorder
+Major depressive disorder (broad)
+Medication use (agents acting on the renin-angiotensin system)
+Metabolic syndrome
+Monocyte percentage of white cells
+Morning person
+Multi-trait sex score
+Multi-trait sum score
+Neuropsychiatric disorders
+Noncognitive aspects of educational attainment
+Number of sexual partners
+Number of sexual partners in opposite-sex sexual behavior
+Opioid use disorder
+Opioid use disorder (MTAG)
+Opioid use disorder (broad)
+Orbitofrontal area (unadjusted for global measures)
+Osteoarthritis
+Pain (pleiotropy)
+Personality traits or cognitive traits (multivariate analysis)
+Risk-taking behavior (multivariate analysis)
+SIOPS occupational score (MTAG)
+Schizophrenia
+Schizophrenia (MTAG)
+Schizophrenia or ER positive breast cancer (pleiotropy)
+Schizophrenia or breast cancer (pleiotropy)
+Self-reported math ability
+Self-reported math ability (MTAG)
+Smoked fish liking
+Smoking cessation (MTAG)
+Smoking initiation
+Smoking initiation (ever regular vs never regular)
+Smoking initiation (ever regular vs never regular) (MTAG)
+Smoking status
+Smoking status (ever vs never smokers)
+Smoking status (heavy vs never)
+Smoking status (standard GWA)
+Spherical equivalent
+Sporadic neuroblastoma
+Superior parietal area (unadjusted for global measures)
+Tea without sugar liking
+Trauma exposure
+Type 2 diabetes
+Vertex-wise cortical thickness
+Vertex-wise sulcal depth
+Waist circumference adjusted for body mass index
+Whole brain restricted directional diffusion (multivariate analysis)
